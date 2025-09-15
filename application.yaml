@@ -9,7 +9,7 @@ spec:
   source:
     repoURL: https://github.com/DaoudaGning/ProjetDevops.git
     targetRevision: HEAD
-    path: manifests
+    path: ./
   
   destination:
     server: https://kubernetes.default.svc
